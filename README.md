@@ -18,6 +18,7 @@ This application will connect to your Instagram account, analyze your saved reci
 ## Project Checklist
 
 ### Phase 1: Setup & Authentication
+- [ ] Ask for user permission before accessing Instagram data
 - [ ] Set up project repository and development environment
 - [ ] Research Instagram API limitations and alternatives
 - [ ] Implement Instagram authentication (Instagram Basic Display API)
